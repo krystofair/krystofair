@@ -1,5 +1,5 @@
-### WELCOME ON MY PROFILE. 🥃
-#### Check out! Maybe you find something interesting :)
+### 🍍WELCOME ON MY PROFILE🍍
+#### Check out! Maybe you find something interestin'😁
 <!--
 **krystofair/krystofair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
