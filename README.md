@@ -4,6 +4,11 @@
 - 💬 Ask me about **ROLLERBLADES** 💙🤍
 - 📫 For now I don't have domain, so you should write to krystofer02 at gmail.😊
 - 🌱 I’m currently learning _PyTorch_
+
+### Books
+Readed and recommended 😊
+- Kenneth Reitz, "The Hitchhiker's Guide to Python: Best Practices for Development"
+- Luciano Ramalho, "Fluent Python: Clear, Concise, and Effective Programming"
 <!--
 **krystofair/krystofair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
