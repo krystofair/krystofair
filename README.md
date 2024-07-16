@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **ROLLERBLADES** 💙🤍
 - 📫 For now I don't have domain, so you should write to krystofer02 at gmail.😊
-- 🌱 I’m currently learning _PyTorch_
+<!-- - 🌱 I’m currently learning _PyTorch_ -->
 
 ### Books
 Readed and recommended 😊
