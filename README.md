@@ -7,8 +7,8 @@
 
 ### Books
 Readed and recommended 😊
-- Kenneth Reitz, "The Hitchhiker's Guide to Python: Best Practices for Development"
-- Luciano Ramalho, "Fluent Python: Clear, Concise, and Effective Programming"
+- Kenneth Reitz, "The Hitchhiker's Guide to Python: Best Practices for Development" vEN
+- Luciano Ramalho, "Fluent Python: Clear, Concise, and Effective Programming" vPL
 <!--
 **krystofair/krystofair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
