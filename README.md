@@ -1,9 +1,15 @@
-### Welcome
+### Witam
+
+#### Współpraca
+Jeśli masz jakiś projekt, który nie jest trywialnym CRUD-em przez który uczysz się użycia np ORM-a.
+To zapraszam cię do kontaktu. Możemy razem zgadać się na Discordzie i przemyśleć temat. Nie musi to być szczególnie jakiś biznesowy projekt,
+choć w takich najlepiej zacząć.
 
 ##### I hope you find something interestin' now or sooooon 😁
 
-- 💬 Ask me about **ROLLERBLADES** 💙🤍
-- 📫 For now I don't have domain, so you should write to krystofer02 at gmail.😊
+- 🛹 I am skating on **ROLLERBLADES** 💙🤍 sometimes
+- 📫 For now I don't have my own domain yet, so you should write to krystofer02 at gmail.😊
+- 🌱 I'm currently deal with open source projects.
 
 <!-- - 🌱 I’m currently learning _PyTorch_ -->
 
