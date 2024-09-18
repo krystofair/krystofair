@@ -1,8 +1,6 @@
-### Witam
+### Hello
 
-#### Współpraca
-Jeśli masz jakiś projekt, który nie jest trywialnym CRUD-em przez który uczysz się użycia np ORM-a.
-To zapraszam cię do kontaktu. Możemy razem zgadać się na Discordzie i przemyśleć temat.
+#### -_-
 
 ##### I hope you find something interestin' now or sooooon 😁
 
