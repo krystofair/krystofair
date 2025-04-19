@@ -1,12 +1,9 @@
 ### Hello
-
-#### -_-
-
 ##### I hope you find something interestin' now or sooooon 😁
 
-- 🛹 I am skating on **ROLLERBLADES** 💙🤍 sometimes
+- 🛹 Sometimes I skate on 🤍**ROLLERBLADES**💙
 - 📫 For now I don't have my own domain yet, so you should write to krystofer02 at gmail.😊
-- 🌱 I'm currently deal with open source projects.
+<!-- - 🌱 I'm currently deal with   -->
 
 <!-- - 🌱 I’m currently learning _PyTorch_ -->
 
@@ -14,7 +11,6 @@
 Readed and recommended 😊
 - Kenneth Reitz, "The Hitchhiker's Guide to Python: Best Practices for Development" vEN
 - Luciano Ramalho, "Fluent Python: Clear, Concise, and Effective Programming" vPL
-
 
 <!--
 **krystofair/krystofair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
