@@ -1,14 +1,13 @@
 ### Hello
-##### I hope you find something interestin' now or sooooon 😁
 
 - 🛹 Sometimes I skate on 🤍**ROLLERBLADES**💙
-- 📫 For now I don't have my own domain yet, so you should write to krystofer02 at gmail.😊
+- 📫 For now I don't have my own domain yet, so you should write to krystofer02 at gmail.
 <!-- - 🌱 I'm currently deal with   -->
 
 <!-- - 🌱 I’m currently learning _PyTorch_ -->
 
 ### Books
-Readed and recommended 😊
+Read and recommended
 - Kenneth Reitz, "The Hitchhiker's Guide to Python: Best Practices for Development" vEN
 - Luciano Ramalho, "Fluent Python: Clear, Concise, and Effective Programming" vPL
 
