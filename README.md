@@ -1,6 +1,6 @@
 
 <p>
-  <img src="https://img.shields.io/liberapay/patrons/krystofair.svg?logo=liberapay">
+  <a href="https://liberapay.com/krystofair"><img src="https://img.shields.io/liberapay/patrons/krystofair.svg?logo=liberapay"></a>
   <img alt="Static Badge" src="https://img.shields.io/badge/psyche-20%25%2Crebuilding-%2339553E?style=flat">
   <img alt="Static Badge" src="https://img.shields.io/badge/orange3contribution-weak-%234A0C0A?style=flat">
   <img alt="Static Badge" src="https://img.shields.io/badge/account%20balance-NULL-%23251DCC?style=flat">
@@ -20,7 +20,7 @@
 
 <h4>Links</h4>
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/-codeberg-%23FD8E07?style=flat&link=https%3A%2F%2Fcodeberg.org%2Fkrystofair">
+  <a href="link=https://codeberg.org/krystofair"><img alt="Static Badge" src="https://img.shields.io/badge/-codeberg-%23FD8E07?style=flat"></a>
 </p>
 
 <!--
