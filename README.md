@@ -20,7 +20,7 @@
 
 <h4>Links</h4>
 <p>
-  <a href="link=https://codeberg.org/krystofair"><img alt="Static Badge" src="https://img.shields.io/badge/-codeberg-%23FD8E07?style=flat"></a>
+  <a href="https://codeberg.org/krystofair"><img alt="Static Badge" src="https://img.shields.io/badge/-codeberg-%23FD8E07?style=flat"></a>
 </p>
 
 <!--
