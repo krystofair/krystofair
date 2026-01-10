@@ -1,7 +1,7 @@
 
 <p>
   <a href="https://liberapay.com/krystofair"><img src="https://img.shields.io/liberapay/patrons/krystofair.svg?logo=liberapay"></a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/psyche-20%25%2Crebuilding-%2339553E?style=flat">
+  <img alt="Static Badge" src="https://img.shields.io/badge/psyche-30%25%2Crebuilding-%2339553E?style=flat">
   <img alt="Static Badge" src="https://img.shields.io/badge/orange3contribution-weak-%234A0C0A?style=flat">
   <img alt="Static Badge" src="https://img.shields.io/badge/account%20balance-NULL-%23251DCC?style=flat">
   <img alt="Static Badge" src="https://img.shields.io/badge/own%20domain-not%20exists-%23D1711D?style=flat">
